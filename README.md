@@ -1,6 +1,5 @@
 # Kattis
-a cache that stores the coding practices
 
-should I add in some comments in the code??
+Thanks to all the black magic taghut by Steven Harlim
 
 //may not be the most fancy code ;D
