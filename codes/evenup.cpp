@@ -18,8 +18,8 @@ int main() {
 		}
 
 		cardStack.push(value); //push in the base value +
-							   //rest of the cards who can't form
-							   //even number with the adjacent one
+				       //rest of the cards who can't form
+		    		       //even number with the adjacent one
 	}
 
 	cout << cardStack.size() <<endl; //size() -> num of cards in the stack
