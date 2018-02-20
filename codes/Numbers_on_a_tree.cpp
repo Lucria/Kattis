@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+//tot it's a hard qn that requires priority queue functions
+
 int main(){
 	int height, i=1, isEmpty=0, size; //check if there's operation
 	unsigned long long num;
